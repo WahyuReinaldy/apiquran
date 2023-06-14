@@ -18,7 +18,7 @@
         android:layout_below="@id/tvAyat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Arti Ayat : Aku Punya Ini"
+        android:text="Arti Ayat : dengan menyebut nama allah"
         android:textSize="14sp"
         />
 
